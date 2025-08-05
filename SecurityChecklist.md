@@ -430,7 +430,7 @@ Those may be found
 [here](https://www.nerdwallet.com/blog/finance/pros-and-cons-freezing-credit/).
 If you're looking for a detailed document on how to freeze the credit of a
 minor, this is detailed
-[here](https://brianwilson.us/2019-04-02-Credit-Protections-for-Minors/). 
+[here](https://bubba.org/2019-04-02-Credit-Protections-for-Minors/). 
 You can also keep tabs on your credit for free by using either [Credit
 Karma](https://www.creditkarma.com/) and/or [Turbo (by
 Intuit)](https://turbo.intuit.com/) who offer apps that provide this service
